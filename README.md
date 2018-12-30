@@ -24,5 +24,5 @@ iTerm2 → Preference → Profiles → Colors
 の部分のチェックを外す。
 ## zsh 設定
 ./config/.zshrc
-を実環境にコピペ。（for Mac）
+を実環境にコピペ。（for Mac）  
 （cd 後の自動ls, cd 入力なしでのディレクトリ移動などができる）
