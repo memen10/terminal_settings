@@ -5,14 +5,11 @@ zsh, vim
 oh-my-zsh は入れていない
 
 # リンクメモ
-## zsh 設定
-./config/.zshrc
-を実環境にコピペ。（for Mac）
-（cd 後の自動ls, cd 入力なしでのディレクトリ移動などができる）
-
 ## terminal, vim 色設定
-https://qiita.com/HeRo/items/363b2aa18e7f225a8069
-
+参考：https://qiita.com/HeRo/items/363b2aa18e7f225a8069
+solarized-darkのgitリポジトリについては
+https://github.com/joel-porquet/zsh-dircolors-solarized
+を使用した。
 なお、
 ```
 ターミナル → 環境設定 → プロファイル → Solarized Dark → ボールドテキストに明るい色を使用
@@ -30,3 +27,8 @@ iTerm2 → Preference → Profiles → Colors
 [ ] Bold
 ```
 の部分のチェックを外す。
+
+## zsh 設定
+./config/.zshrc
+を実環境にコピペ。（for Mac）
+（cd 後の自動ls, cd 入力なしでのディレクトリ移動などができる）
